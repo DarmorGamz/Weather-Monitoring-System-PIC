@@ -1,0 +1,21 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid a55e4a84-89d7-4f4b-aea3-abe04ece8c69)
+
+  (paper "A4")
+
+  (title_block
+    (title "PIC Weather Monitor")
+    (date "2023-10-23")
+    (rev "v1.0.0")
+    (company "DarmorTM")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
